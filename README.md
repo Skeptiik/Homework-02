@@ -1,5 +1,9 @@
 #Homework_02
 
+Website can be found here: http://skeptiik.github.io/JackG_AdlUni_Homework-02
+
+Screenshot of website: 
+
 This website is a simple company website overviewing what the company does and can provide to their customers.
 
 The entire website was made using non-semantic tags such as "div" and "span"
