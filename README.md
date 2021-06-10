@@ -2,7 +2,7 @@
 
 Website can be found here: http://skeptiik.github.io/JackG_AdlUni_Homework-02
 
-Screenshot of website: 
+Screenshot of website: ![screenshot](https://i.imgur.com/weLzs73.jpeg)
 
 This website is a simple company website overviewing what the company does and can provide to their customers.
 
